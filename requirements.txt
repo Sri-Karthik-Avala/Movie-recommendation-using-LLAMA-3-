@@ -1,0 +1,12 @@
+transformers
+streamlit
+streamlit-option-menu
+langchain_qdrant
+qdrant-client
+ollama
+torch
+transformers
+langchain_community
+sentence-transformers
+pypdf
+ollama
